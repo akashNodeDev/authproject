@@ -1,2 +1,2 @@
 # authproject
-Example of the authentication project
+Example of how to create a authentication route
